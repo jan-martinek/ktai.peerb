@@ -22,3 +22,5 @@ In: _Organization._ Vol 18/2011. **[PDF]({{ site.docsUrl }}14_Hancock_Rehn.pdf)*
 ### Edensor, Tim – Millington, Edensor. _Illuminations, Class Identities and the Contested Landscapes of Christmas._ 
 
 In: _Sociology._ February 2009 43: 103-121 **[PDF]({{ site.docsUrl }}14_Edensor_Millington.pdf)**
+
+<img src="{{ site.baseurl }}/style/xmas.jpg" width="100%">
