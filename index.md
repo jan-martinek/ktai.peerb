@@ -10,7 +10,7 @@ menuPosition: 1
 · [Hodnocení studentů ]({{ site.assessmentsUrl }}) 
 · [Klub kritického čtení](https://www.facebook.com/groups/kritickeCteni/)
 
-<img src="/style/header.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 
 ## Proč si zapsat tento kurz?

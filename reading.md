@@ -4,7 +4,7 @@ layout: page
 menuItem: Povinná četba
 menuPosition: 2
 ---
-<img src="/style/klee.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/klee.jpg" width="100%">
 
 Veškerá povinná literatura je dostupná ve složce [Učební materiály v ISu](https://is.muni.cz/el/1421/podzim2016/VIKBB55/um/) (včetně materiálů publikovaných online). Níže najdete přesné specifikace rozsahů stránek, které jsou určeny k přípravě na semináře.
 
@@ -14,7 +14,7 @@ Pokud neznáte nějaké pojmy, události či osoby, které jsou v textech zmín�
 {% assign syllabus = (site.syllabus | sort: "week") %}
 {% for week in syllabus %}
   <li>
-  	<a href="{{ week.url }}">{{ week.title }}</a> 
+  	<a href="{{ site.baseurl }}{{ week.url }}">{{ week.title }}</a> 
   	{% for tag in week.tags %}
   		<b>#{{ tag }}</b>
   	{% endfor %}

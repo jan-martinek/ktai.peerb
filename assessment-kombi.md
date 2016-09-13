@@ -4,7 +4,7 @@ layout: page
 menuItem: "Hodnocení: kombinované studium"
 menuPosition: 4
 ---
-<img src="/style/adorno-kombi.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/adorno-kombi.jpg" width="100%">
 
 **Hodnocení předmětu je průběžné** a ve čtecím týdnu je doplňuje **syntetizující esej**.
 

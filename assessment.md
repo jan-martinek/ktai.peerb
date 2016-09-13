@@ -4,7 +4,7 @@ layout: page
 menuItem: "Hodnocení: prezenční&nbsp;studium"
 menuPosition: 3
 ---
-<img src="/style/adorno.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/adorno.jpg" width="100%">
 
 **Hodnocení předmětu je průběžné** a ve čtecím týdnu je doplňuje **syntetizující esej**.
 
