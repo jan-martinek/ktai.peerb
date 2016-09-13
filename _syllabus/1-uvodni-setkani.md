@@ -4,8 +4,6 @@ day: 19. září
 title: Úvodní setkání
 tags: [inovace]
 ---
-K prvnímu setkání 
-
 ### Košturiak, Ján – Chaľ, Ján: _Inovace: vaše konkurenční výhoda!_  
 
 Brno: CPress, 2008\. ISBN 978-80-251-1929-7\.  
