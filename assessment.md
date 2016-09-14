@@ -93,6 +93,8 @@ Aktuální hodnocení, které bude průběžně aktualizováno vždy po konání
 
 ## Absence
 
-**V případě, že se nebudete moci z důvodu nemoci či jiných důležitých osobních důvodů zúčastnit semináře**, vyřiďte si na fakultě omluvenku a dostanete body za přípravu a kreativní výstup i bez účasti na semináři.
+Kurz nevyžaduje stoprocentní účast. Semináře jsou povinné pouze jako součást průběžného hodnocení. Pokud pár seminářů vynecháte, nic se neděje (pokud body nasbíráte jinde). Nicméně doporučuji nezanedbat start semestru: zde ztrácíte nejen body, ale i znalost klíčových pojmů, které jsou důležité pro pochopení obsahu dalších seminářů.
+
+**V případě, že se nebudete moci z důvodu nemoci či jiných důležitých osobních důvodů zúčastnit semináře**, na který jste zpracovali přípravu a nechcete přijít o zasloužené body, vyřiďte si na fakultě omluvenku. Dotáhněte kreativní výstup a dostanete body i bez účasti na semináři.
 
 Neomluvenou účast na semináři je možné nahradit zpracováním **eseje, který vzájemně propojuje dvě diskutovaná témata** v rozsahu 5–8 normostran (za 1–7 bodů), který nahrazuje pro dvě vybraná témata přípravu a účast na diskusi (stále je možné vytvořit kreativní výstupy). Takový esej může student(ka) zpracovat maximálně jeden. Esej je nutné odevzdat do 18. prosince (včetně).
