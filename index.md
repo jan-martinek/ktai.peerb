@@ -48,7 +48,7 @@ Struktura předmětu klade důraz na intenzivní práci s textem – povinnými 
 
 ## Výuka
 
-Výuka se koná vždy v pondělí v 17.30 v místnosti U28 (Budova U1, Úvoz 33). (Pozn.: Možná se přesuneme do nové seminárky nad kavárnou Atlas.)
+Výuka se koná vždy v pondělí v 17.30 v **nové seminárce KISKu** — v druhém patře Bílého domu (Žerotínovo nám. 6, nad kavárnou Atlas).
 
 
 ## Stručná osnova předmětu
