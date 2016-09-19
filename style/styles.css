@@ -98,7 +98,9 @@ a[href$='.pdf'] {
 	}		
 }
 @media screen and (max-width: 69.999rem) {
-	nav {
+	html, body { margin: 0; padding: 0 }
+        .column { padding: .5rem; }
+        nav {
 		border-bottom: 3px solid rgba(0, 0, 0, .1);
 		padding-bottom: .5rem;
 		margin-bottom: 1rem;	
