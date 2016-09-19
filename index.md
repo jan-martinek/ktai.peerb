@@ -13,6 +13,11 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
 
+## Aktualizace a změny
+
+**19. září**: Protože nebudu příští týden v Brně, posunul jsem výuku o týden. Výuka tedy bude probíhat i 31. října, kdy mělo být původně volno. Do [druhé lekce]({{ site.baseurl }}/syllabus/1-uvodni-setkani.html) jsem přidal recenzi knížky *Vzpora přichází* od Michala Kašpárka.
+
+
 ## Proč si zapsat tento kurz?
 
 - Zajímají vás společenské dopady inovací?

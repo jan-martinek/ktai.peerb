@@ -1,6 +1,6 @@
 ---
-week: 2
-day: 26. září
+week: 3
+day: 3. října
 title: K čemu je kritická teorie?
 tags: [emancipace]
 ---

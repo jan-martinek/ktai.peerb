@@ -1,6 +1,6 @@
 ---
-week: 5
-day: 17. října
+week: 6
+day: 24. října
 title: Masová kultura
 tags: [kultura]
 ---

@@ -28,3 +28,9 @@ In: The New York Times, May 24, 2015\. [Dostupné online.](http://www.nytimes.co
 
 In: The Brooklyn Rail, Sep 1, 2016 [Dostupné online.](http://www.brooklynrail.org/2016/09/criticspage/against-theory)  
 **Zadaný je celý text (2 strany anglicky). [PDF]({{ site.docsUrl }}01_Carnevali.pdf)**
+
+## Doporučená literatura
+
+### Kašpárek, Michal: *Vzpoura přichází: Pochybný lék, ale fantastická diagnóza*
+
+In: Finmag, 3. 7. 2014. [Dostupné online.](http://finmag.penize.cz/recenze/287966-vzpoura-prichazi-pochybny-lek-ale-fantasticka-diagnoza)

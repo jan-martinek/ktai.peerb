@@ -1,6 +1,6 @@
 ---
-week: 4
-day: 10. října
+week: 5
+day: 17. října
 title: Jazyk, řeč, znak, strukturalismus
 tags: [pojem, diskurs]
 ---

@@ -1,6 +1,6 @@
 ---
-week: 3
-day: 3. října
+week: 4
+day: 10. října
 title: Propojení filosofie a sociální vědy
 tags: [věda]
 ---

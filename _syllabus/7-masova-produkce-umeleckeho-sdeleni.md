@@ -1,6 +1,6 @@
 ---
-week: 6
-day: 24. října
+week: 7
+day: 31. října
 title: Masová produkce uměleckého sdělení
 tags: [aura]
 ---
@@ -21,12 +21,15 @@ In: Walter Benjamin. _Literárněvědné studie_. Praha: Oikoymenh, 2009\.
 [Dostupné online.](http://maneatingrobot.com/96/prison-reform-via-soylent-and-oculus/)
 **Zadaný je celý text (8 stran anglicky). [PDF]({{ site.docsUrl }}07_How Soylent and Oculus Could Fix The Prison System MAN EATING ROBOT.pdf)**
 
-<!-- ### Ferrara, Lamberto. _Lomography: the work of (photogaphic) art in the age of mechanical reproduction._ 
-
-[Weblog post, 2013] [Dostupné online.](http://egomonsterblog.wordpress.com/analysis/lomography-the-work-of-photogaphic-art-in-the-age-of-mechanical-reproduction/)  
-**Zadaný je celý text (2 strany anglicky). [PDF]({{ site.docsUrl }}06_Lomo.pdf)** -->
-
 ### Fischer, Petr. _Záhada živoucího_. 
 
 In: _Týdeník A2._ Vydání č. 23/2009\.  
 **Zadaný je celý text (2 strany česky). [PDF]({{ site.docsUrl }}06_Fischer.pdf)**
+
+
+## Doporučená literatura
+
+### Ferrara, Lamberto. _Lomography: the work of (photogaphic) art in the age of mechanical reproduction._ 
+
+[Weblog post, 2013] [Dostupné online.](http://egomonsterblog.wordpress.com/analysis/lomography-the-work-of-photogaphic-art-in-the-age-of-mechanical-reproduction/)  
+**Zadaný je celý text (2 strany anglicky). [PDF]({{ site.docsUrl }}06_Lomo.pdf)**
