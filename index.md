@@ -15,7 +15,7 @@ menuPosition: 1
 
 ## Aktualizace a změny
 
-**19. září**: Protože nebudu příští týden v Brně, posunul jsem výuku o týden. Výuka tedy bude probíhat i 31. října, kdy mělo být původně volno. Do [druhé lekce]({{ site.baseurl }}/syllabus/1-uvodni-setkani.html) jsem přidal recenzi knížky *Vzpora přichází* od Michala Kašpárka.
+**19. září**: Protože nebudu příští týden v Brně, posunul jsem výuku o týden. Výuka tedy bude probíhat i 31. října, kdy mělo být původně volno. Do [první lekce]({{ site.baseurl }}/syllabus/1-uvodni-setkani.html) jsem přidal recenzi knížky *Vzpoura přichází* od Michala Kašpárka.
 
 
 ## Proč si zapsat tento kurz?
