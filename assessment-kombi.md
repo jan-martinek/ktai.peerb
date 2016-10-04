@@ -69,9 +69,11 @@ Přípravu je možné psát neformálním stylem. Na zadané texty není třeba 
 
 Po semináři studenti zpracují výstup **v libovolné formě, která je zachytitelná a zprostředkovatelná v čase.** (Ano, v reakci na obsah či průběh kurzu můžete třeba křičet expletiva v lese, ale je potřebné to nějakým způsobem zaznamenat a odevzdat. A pozor, lesní tvorové nemají rádi hluk.)
 
-Výstup reaguje na **konkrétní detail** obsahu kurzu nebo zpracovává **zajímavý zážitek** z výuky. Tvorba kreativního výstupu by studentům měla **zabrat cca hodinu**. Kromě samotného výstupu či jeho dokumentace je třeba napsat krátký komentář, proč vzniklo právě to, co vzniklo (1–2 odstavce).
+Výstup reaguje na **konkrétní detail** obsahu kurzu nebo zpracovává **zajímavý zážitek** z výuky. Tvorba kreativního výstupu by studentům měla **zabrat cca hodinu**. Kromě samotného výstupu či jeho dokumentace je třeba napsat krátký komentář, proč vzniklo právě to, co vzniklo (1–2 odstavce). Komentář je možné vložit jako popisek souboru při vkládání do ISu (zobrazí se jako modrá bublina u souboru).
 
-Hodnocení kreativních výstupů probíhá formou vzájemného hodnocení v nástroji Peer Blender (na úvodním semináři se podíváme na detaily): každý artefakt je ohodnocen třemi dalšími osobami (studenty či vyučujícím). Za kreativní artefakt student získá 1 bod, pokud udělí souhlas alespoň dva z hodnotitelů.
+Pokud chcete do odevzdávárny vložit webovou URL, je možné využít funkcionality ISu (ikonka zeměkoule, „Vložit novou adresu do Internetu“).
+
+Kreativní výstupy jsou hodnoceny 1—2 body vyučujícím.
 
 
 ## ✍ Eseje
