@@ -18,3 +18,9 @@ In: Fiona Hackne, Jonathn Glynne and Viv Minto, eds. (2009). _Proceedings of the
 
 In: Michl, Jan. _Tak nám prý forma sleduje funkci._ VŠUP, Praha 2003\. [Dostupné online.](http://janmichl.com/cz.fff.html)  
 **Text je zadaný od 5\. kapitoly, tedy strany 8–16 v PDF exportu (8 stran česky). [PDF]({{ site.docsUrl }}08_Michl.pdf)**
+
+## Doporučená literatura
+
+### Hiltzik, Michael. _President Obama schools Silicon Valley CEOs on why government is not like business._
+
+In: Los Angeles Times, October 17, 2016. [Dostupné online.](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-obama-silicon-valley-20161017-snap-story.html)
