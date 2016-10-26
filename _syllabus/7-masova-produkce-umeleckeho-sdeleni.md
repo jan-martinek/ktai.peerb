@@ -18,6 +18,7 @@ In: Walter Benjamin. _Literárněvědné studie_. Praha: Oikoymenh, 2009\.
 
 ### Snow, Shane. _How Soylent and Oculus Could Fix The Prison System._ 
 
+In: Man Eating Robot. 2016.  
 [Dostupné online.](http://maneatingrobot.com/96/prison-reform-via-soylent-and-oculus/)
 **Zadaný je celý text (8 stran anglicky). [PDF]({{ site.docsUrl }}07_Snow.pdf)**
 
