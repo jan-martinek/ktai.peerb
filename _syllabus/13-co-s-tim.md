@@ -9,7 +9,7 @@ tags: [perspektivy]
 In: _Medium.com_, 2016\. [Dostupné online.](https://medium.com/@EthanZ/the-worst-thing-i-read-this-year-and-what-it-taught-me-or-can-we-design-sociotechnical-systems-4c8c51074337)  
 **Zadaný je celý text (10 stran anglicky). [PDF]({{ site.docsUrl }}13_Zuckerman.pdf)**
 
-### Sifry, Micah L. _A Conversation With Trebor Scholz on the Rise of Platform Cooperativism | Civic Hall_
+### Sifry, Micah L. _A Conversation With Trebor Scholz on the Rise of Platform Cooperativism_
 
 In: _Civicist.com_, 2016\. [Dostupné online.](http://civichall.org/civicist/conversation-with-trebor-scholz-platform-coop/)
 **Zadaný je celý text (5 stran anglicky). [PDF]({{ site.docsUrl }}13_Sifry.pdf)**
