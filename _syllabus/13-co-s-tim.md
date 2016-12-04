@@ -4,10 +4,15 @@ day: 12. prosince
 title: Co s tím? Kritické hodnocení (kritiky) kritické teorie
 tags: [perspektivy]
 ---
-### Zuckerman, Ethan. _The worst thing I read this year, and what it taught me… or Can we design sociotechnical systems that don’t suck._ In: Medium.com. 
+### Zuckerman, Ethan. _The worst thing I read this year, and what it taught me… or Can we design sociotechnical systems that don’t suck._ 
 
-[Dostupné online.](https://medium.com/@EthanZ/the-worst-thing-i-read-this-year-and-what-it-taught-me-or-can-we-design-sociotechnical-systems-4c8c51074337)  
+In: _Medium.com_, 2016\. [Dostupné online.](https://medium.com/@EthanZ/the-worst-thing-i-read-this-year-and-what-it-taught-me-or-can-we-design-sociotechnical-systems-4c8c51074337)  
 **Zadaný je celý text (10 stran anglicky). [PDF]({{ site.docsUrl }}13_Zuckerman.pdf)**
+
+### Sifry, Micah L. _A Conversation With Trebor Scholz on the Rise of Platform Cooperativism | Civic Hall_
+
+In: _Civicist.com_, 2016\. [Dostupné online.](http://civichall.org/civicist/conversation-with-trebor-scholz-platform-coop/)
+**Zadaný je celý text (5 stran anglicky). [PDF]({{ site.docsUrl }}13_Sifry.pdf)**
 
 ### Volek, Jaromír. _Mediální studia mezi kritikou ideologie a kritikou informace._ 
 
