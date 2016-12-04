@@ -15,7 +15,8 @@ menuPosition: 1
 
 ## Aktualizace a změny
 
-**19. září**: Protože nebudu příští týden v Brně, posunul jsem výuku o týden. Výuka tedy bude probíhat i 31. října, kdy mělo být původně volno. Do [první lekce]({{ site.baseurl }}/syllabus/1-uvodni-setkani.html) jsem přidal recenzi knížky *Vzpoura přichází* od Michala Kašpárka.
+- **4. prosince**: Přidal jsem do textů na poslední setkání ještě rozhovor s Treborem Scholzem ohledně jeho iniciativy o hnutí „družstevních platforem“ (platform cooperativism), které je reakcí na trend centralizovaných služeb řazených do sharing economy.
+- **19. září**: Protože nebudu příští týden v Brně, posunul jsem výuku o týden. Výuka tedy bude probíhat i 31. října, kdy mělo být původně volno. Do [první lekce]({{ site.baseurl }}/syllabus/1-uvodni-setkani.html) jsem přidal recenzi knížky *Vzpoura přichází* od Michala Kašpárka.
 
 
 ## Proč si zapsat tento kurz?
